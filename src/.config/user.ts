@@ -6,7 +6,7 @@ export const userConfig: Partial<UserConfig> = {
     subtitle: '...Tipografías del planisterio...',
     author: 'NeoEnanos Chocloneros',
     description: 'Partidarios del choclón',
-    website: 'https://elversomurio.cl',
+    website: 'https://planisterio.cl',
     pageSize: Infinity,
     socialLinks: [
       {
@@ -23,7 +23,7 @@ export const userConfig: Partial<UserConfig> = {
       },
       {
         name: 'email',
-        href: 'mailto:tribilin@elversomurio.cl',
+        href: 'mailto:tribilin@planisterio.cl',
       },
     ],
     navLinks: [
@@ -68,7 +68,7 @@ export const userConfig: Partial<UserConfig> = {
     ],
   },
   appearance: {
-    theme: 'dark',
+    theme: 'system',
     locale: 'es-es',
   },
   analytics: {
