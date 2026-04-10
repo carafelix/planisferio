@@ -2,16 +2,16 @@ import type { UserConfig } from '~/types'
 
 export const userConfig: Partial<UserConfig> = {
   site: {
-    title: 'El verso murió',
-    subtitle: '...Tipografías del planisterio...',
+    title: 'Planisferio',
+    subtitle: '...Tipografías del plano...',
     author: 'NeoEnanos Chocloneros',
     description: 'Partidarios del choclón',
-    website: 'https://planisterio.cl',
+    website: 'https://planisferio.cl',
     pageSize: Infinity,
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/carafelix/verse-is-dead',
+        href: 'https://github.com/neoenanos/planisferio',
       },
       {
         name: 'rss',
@@ -23,7 +23,7 @@ export const userConfig: Partial<UserConfig> = {
       },
       {
         name: 'email',
-        href: 'mailto:tribilin@planisterio.cl',
+        href: 'mailto:tribilin@planisferio.cl',
       },
     ],
     navLinks: [
